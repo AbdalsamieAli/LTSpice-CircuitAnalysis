@@ -16,8 +16,8 @@ A collection of electrical circuits performed using LTspice.
 
 ## Circuit Schematic & Results
 
-* Frist Order DC RL Circuit
-<img src='DC circuits/First Order Circuits/RL.png'>
+* RC Lowpass Filter circuit 
+<img src='Passive Filters/RC_Lowpass_Filter.png'>
 
 * Frist Order DC RC Circuit
 <img src='DC circuits/First Order Circuits/RC.png'>
