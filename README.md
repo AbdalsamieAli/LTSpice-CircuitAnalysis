@@ -19,6 +19,15 @@ A collection of electrical circuits performed using LTspice.
 * RC Lowpass Filter circuit 
 <img src='Passive Filters/RC_Lowpass_Filter.png'>
 
+* RC Highpass Filter circuit 
+<img src='Passive Filters/RC_Highpass_Filter.png'>
+
+* RLC Bandpass Filter circuit 
+<img src='Passive Filters/RLC_Bandpass_Filter.png'>
+
+* Bandpass Filter circuit 
+<img src='Passive Filters/Bandpass_Filter.png'>
+
 * Frist Order DC RC Circuit
 <img src='DC circuits/First Order Circuits/RC.png'>
 
