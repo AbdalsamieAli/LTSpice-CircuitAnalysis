@@ -25,10 +25,9 @@ A collection of electrical circuits performed using LTspice.
 * Second Order DC Parallel RLC Circuit
 <img src='DC circuits/Second Order Circuits/Parallel_RLC.png'>
 
-*  Filters
---
-* Passive Filters
---
+#  Filters
+
+## Passive Filters
 
 * RC Lowpass Filter circuit 
 <img src='Filters/Passive Filters/RC_Lowpass_Filter.png'>
@@ -42,9 +41,8 @@ A collection of electrical circuits performed using LTspice.
 * Bandpass Filter circuit 
 <img src='Filters/Passive Filters/Bandpass_Filter.png'>
 
---
-* Active Filters
---
+
+## Active Filters
 
 * First Order Lowpass Filter circuit 
 <img src='Filters/Active Filters/First-Order_Lowpass_Filter.png'>
